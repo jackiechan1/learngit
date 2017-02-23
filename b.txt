@@ -1,7 +1,3 @@
 ceshi
 checkout 
-<<<<<<< HEAD
-master
-=======
-branch 
->>>>>>> cheshi1
+cheshi1
